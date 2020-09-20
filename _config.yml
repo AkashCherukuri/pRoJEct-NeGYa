@@ -1,8 +1,8 @@
 ## Settings
-title: pRoJEct-NeGYa
-owner: "DeerRIDER"
-url: "https://akiritsu.github.io"
-baseurl: "/pRoJEct-NeGYa"
+title: Blog
+owner: "95ych"
+url: "https://95ych.github.io"
+baseurl: "/academic-journal"
 permalink: /:title/
 description: ""
 markdown: kramdown
@@ -10,11 +10,11 @@ webrick:
   headers:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
-email: "akiritsu@outlook.com"
-github: "akiritsu/pRoJEct-NeGYa"
+email: "cyksagar@protonmail.com"
+github: "95ych"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
-statement: "Designed by DeerRIDER, All Rights Reserved"
+statement: "Designed by DeerRIDER"
 # default max toc levels: 1 - 6 (h1 - h6)
 toc_level: 3
 # texts randomly displayed in background
